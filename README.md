@@ -1,6 +1,6 @@
 ### STUDY with ME 👋
 
-한국(KOREA) 개발자 과정 학생 <br>
+한국(KOREA) <br>
 KDT Java 백엔드 개발자 과정 이수 (2023.03 ~ 2023.07)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=fiddlalsdl)](https://github.com/fiddlalsdl)
