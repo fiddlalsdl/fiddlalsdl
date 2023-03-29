@@ -7,8 +7,9 @@ KDT Java 백엔드 개발자 과정 이수 (2023.03 ~ 2023.07)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiddlalsdl&layout=compact)](https://github.com/fiddlalsdl/github-readme-stats)
 
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 
 
 <!--
